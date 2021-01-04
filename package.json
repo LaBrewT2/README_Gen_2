@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/LaBrewT2/README_Gen_2#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3",
     "util": "^0.12.3",
     "utils": "^0.3.1"
   }
