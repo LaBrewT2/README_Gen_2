@@ -1,8 +1,7 @@
 // function to generate markdown for README
-function generateMarkdown(userResponses, userInfo){
+function generateMarkdown(userResponses){
   return `# ${userResponses.title}
   #### Welcome to ${userInfo.name}'s page!`
-
 // Generate Table of Contents conditionally based on userResponses
 `## Table of Contents 
 * [Installation](#installation)
